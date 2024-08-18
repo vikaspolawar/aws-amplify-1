@@ -14,6 +14,6 @@
     </style>
 </head>
 <body>
-    <h1>Hello! AWS Mr Gangappa this is my demo app</h1>
+    <h1>Hello! Mr Gangappa this is my demo app</h1>
 </body>
 </html>
