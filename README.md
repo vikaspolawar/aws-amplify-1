@@ -3,22 +3,22 @@
 <head>
     <style>
         body {
-            /* Radial gradient background */
-            background: radial-gradient(circle, #4CAF50, #8BC34A);
-            /* Monospace font */
-            font-family: 'Courier New', Courier, monospace;
+            background: radial-gradient(circle, #4CAF50, #8BC34A); /* Radial gradient background */
+            font-family: 'Courier New', Courier, monospace; /* Monospace font */
         }
         h1 {
-            /* Golden font color */
-            color: #FFD700;
-            /* Center text */
-            text-align: center;
-            /* Space at the top */
-            margin-top: 10rem;
-            /* Text shadow effect */
-            text-shadow: 2px 2px 5px black;
+            color: #FFD700; /* Golden font color */
+            text-align: center; /* Center text */
+            margin-top: 10rem; /* Space at the top */
+            text-shadow: 2px 2px 5px black; /* Text shadow effect */
         }
     </style>
+</head>
+<body>
+    <h1>Welcome to AWS Amplify Hosting</h1>
+</body>
+</html>
+
 </head>
 <body>
     <!-- Single greeting message -->
