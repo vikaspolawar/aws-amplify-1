@@ -1,20 +1,31 @@
+<!DOCTYPE html>
 <html>
 <head>
     <style>
         body {
-            background: radial-gradient(circle, #4CAF50, #8BC34A); /* Radial gradient background */
-            font-family: 'Courier New', Courier, monospace; /* Monospace font */
+            /* Radial gradient background */
+            background: radial-gradient(circle, #4CAF50, #8BC34A);
+            /* Monospace font */
+            font-family: 'Courier New', Courier, monospace;
         }
         h1 {
-            color: #FFD700; /* Golden font color */
+            /* Golden font color */
+            color: #FFD700;
+            /* Center text */
             text-align: center;
+            /* Space at the top */
             margin-top: 10rem;
-            text-shadow: 2px 2px 5px black; /* Text shadow effect */
+            /* Text shadow effect */
+            text-shadow: 2px 2px 5px black;
         }
     </style>
 </head>
 <body>
+    <!-- Single greeting message -->
     <h1>Welcome to AWS Amplify Hosting</h1>
+</body>
+</html>
+
 </body>
 </html>
  Hosting</h1>
